@@ -85,8 +85,9 @@ class Redis {
         return $response;
     }
 }
-
+/*
 $redis = new Client_test();
 var_dump($redis->auth("123456"));
 var_dump($redis->set("xtgxiso",'abc'));
 var_dump($redis->get("xtgxiso"));
+*/
